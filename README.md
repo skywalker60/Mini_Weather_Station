@@ -1,4 +1,4 @@
-# Mini_Weather_Station
+# Mini_Weather_Station(IOT mini Project)
 
 ## An ESP-32 based mini weather station 
 
