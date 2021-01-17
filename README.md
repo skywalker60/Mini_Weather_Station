@@ -2,20 +2,19 @@
 
 ## An ESP-32 based mini weather station 
 
-*** Components Required:***
+ Components Required:
 ```
 
   ESP32 Dev Toolkit
   DHT11/22 sensor
   BMP180 barometric sensor
-  Dust sensor
-  MQ - 135 sensor
+  
   
 ```
 Software used :
 Thinkspeak and Arduino ide
 
-*** Procedure:***
+Procedure:
 
 1. Connect the DHT11 to the ESP32 board via jumper wires ti 3.3 V and GND pins,and connect the data pin of DHT11 to the 4 pin on the ESP32.
 Same with the pressure sensor for GND and Vin , and connect the data pin to any of the input pins of the ESP32 board
