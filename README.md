@@ -12,6 +12,8 @@
   MQ - 135 sensor
   
 ```
+### Software used :
+Thinkspeak and Arduino ide
 
 ***### Procedure:***
 ```
